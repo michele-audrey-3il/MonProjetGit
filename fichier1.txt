@@ -4,3 +4,6 @@ bonjour!
 TP sur les commandes git
 
 ce Tp a été realisé par MICHELE AUDREY
+
+
+optmisation
